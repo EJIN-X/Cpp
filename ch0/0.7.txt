@@ -1,0 +1,20 @@
+1. Build
+- Compiles only modified code files
+- Links object files into an executable
+- Does nothing if no files were modified
+
+2. Clean
+- Removes all cached objects and executables
+- Ensures all files will be recompiled in next build
+
+3. Rebuild
+- Performs Clean followed by Build
+- Recompiles all files and creates new executable
+
+4. Compile
+- Recompiles a single code file
+- Doesn't run the linker
+- Doesn't produce an executable
+
+5. Run/Start
+- Executes the previously built executable

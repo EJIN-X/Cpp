@@ -1,0 +1,13 @@
+.idea/
+cmake-build-*/
+*.o
+*.so
+*.a
+*.out
+
+*~
+.directory
+.Trash-*
+
+CMakeCache.txt
+CMakeFiles/

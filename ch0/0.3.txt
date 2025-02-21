@@ -1,0 +1,1 @@
+C++’s most notable innovation over C is that it supports object-oriented programming

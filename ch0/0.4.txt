@@ -1,0 +1,14 @@
+Common Programmer's Mistake:
+Starting to code immediately when an idea comes up
+This often leads to poor solutions
+
+
+Better Approach:
+Invest time before coding to think through problem-solving methods
+Check your assumptions
+Consider future extensibility
+
+
+Source Code File Naming Convention:
+Name the primary source file 'main.cpp'
+Makes it easy to identify the primary file
