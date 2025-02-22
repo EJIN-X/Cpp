@@ -1,3 +1,8 @@
 add_executable(ch1_1 1.1.cpp)
 add_executable(ch1_3 1.3.cpp)
 add_executable(ch1_5 1.5.cpp)
+add_executable(ch1_6 1.6.cpp)
+add_executable(ch1_8 1.8.cpp)
+add_executable(ch1_9 1.9.cpp)
+add_executable(ch1_10 1.10.cpp)
+add_executable(ch1_11 1.11.cpp)
