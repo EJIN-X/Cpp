@@ -1,0 +1,8 @@
+add_executable(ch2_1 2.1.cpp)
+add_executable(ch2_2 2.2.cpp)
+add_executable(ch2_3 2.3.cpp)
+add_executable(ch2_4 2.4.cpp)
+add_executable(ch2_7 2.7.cpp)
+add_executable(ch2_8 2.8.cpp add.cpp)
+add_executable(ch2_8q1 input.cpp 2.8q1.cpp)
+#add_executable(ch1_X 1.X.cpp)
