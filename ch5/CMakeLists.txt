@@ -1,0 +1,6 @@
+add_executable(ch5_1 5.1.cpp)
+add_executable(ch5_2 5.2.cpp)
+add_executable(ch5_3 5.3.cpp)
+add_executable(ch5_4 5.4.cpp)
+add_executable(ch5_6 5.6.cpp)
+add_executable(ch5_7 5.7.cpp)
