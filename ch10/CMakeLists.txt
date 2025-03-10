@@ -1,0 +1,5 @@
+add_executable(ch10_1 10.1.cpp)
+#add_executable(ch9_2 9.2.cpp)
+#add_executable(ch9_5 9.5.cpp)
+#add_executable(ch9_6 9.6.cpp)
+#add_executable(ch9_X 9.X.cpp)
