@@ -8,7 +8,7 @@
 #add_executable(ch13_7 13.7.cpp)
 #add_executable(ch13_8 13.8.cpp)
 add_executable(ch13_9 13.9.cpp)
-#add_executable(ch12_10 12.10.cpp)
+add_executable(ch13_10 13.10.cpp)
 #add_executable(ch12_11 12.11.cpp)
 #add_executable(ch12_12 12.12.cpp)
 #add_executable(ch12_13 12.13.cpp)
