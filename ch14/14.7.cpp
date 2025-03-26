@@ -53,3 +53,12 @@ Employee createEmployee(std::string_view name)
     e.setName(name);
     return e;
 }
+
+int main()
+{
+    std::cout << createEmployee("Frank").getName();
+
+    std::string val{createEmployee("Hans").getName()};
+    std::cout <<val;
+
+}
