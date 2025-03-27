@@ -6,4 +6,6 @@
 #add_executable(14_5_1 14.5_1.cpp)
 #add_executable(14_5_2 14.5_2.cpp)
 #add_executable(14_6 14.6.cpp)
-add_executable(14_7 14.7.cpp)
+#add_executable(14_7 14.7.cpp)
+#add_executable(14_8 14.8.cpp)
+add_executable(14_9 14.9.cpp)
